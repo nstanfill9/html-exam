@@ -1,4 +1,12 @@
 img {
     width: 200px;
-    height: 200px;
+    height: 250px;
+}
+
+li {
+    background-color: red;
+}
+
+h1 {
+    color: yellow;
 }
